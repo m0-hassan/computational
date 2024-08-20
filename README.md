@@ -1,5 +1,9 @@
-Computational Physics Simulations!
+Computational Physics Simulations:
 
-- Using Python
+- Python
     - Matplotlib (Library)
     - Numpy (Library)
+
+Derivations of Physics Simulations:
+
+- LaTeX
